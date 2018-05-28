@@ -1,0 +1,22 @@
+:root{
+/* Général */
+    --var-kaleeis-color-principale : #526E9E;           /*var(--var-kaleeis-color-principale)*/ 
+    --var-kaleeis-color-secondaire : #8796C1;           /*var(--var-kaleeis-color-secondaire)*/
+    --var-kaleeis-color-sombre : #1F2327;               /*var(--var-kaleeis-color-sombre)*/
+    --var-kaleeis-color-clair : #EDEDED;                /*var(--var-kaleeis-color-clair)*/
+    --var-kaleeis-color-ponctuation : #CEA82D;          /*var(--var-kaleeis-color-ponctuation)*/
+
+/* Texte */
+    --var-kaleeis-color-texte-fonce : #1F2327;      /*var(--var-kaleeis-color-texte-fonce)*/
+    --var-kaleeis-color-texte-clair : #EDEDED;      /*var(--var-kaleeis-color-texte-clair)*/
+
+/* Element */
+    --var-kaleeis-color-bouton : #CEA82D;    /*var(--var-kaleeis-color-bouton)*/
+    --var-kaleeis-color-icon : #526E9E;      /*var(--var-kaleeis-color-icon)*/
+
+
+/* Hover */
+    --var-kaleeis-color-principale-hover : #4B6490;     /*var(--var-kaleeis-color-principale-hover)*/ 
+    --var-kaleeis-color-sombre-hover : #141719;         /*var(--var-kaleeis-color-sombre-hover)*/
+    --var-kaleeis-color-bouton-hover : #BC9929;         /*var(--var-kaleeis-color-bouton-hover)*/
+}

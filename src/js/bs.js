@@ -1,0 +1,1 @@
+$('.eventPrive').prop('indeterminate', true);
